@@ -13,7 +13,7 @@ end
 
 def take_a_number(katz_deli, name)
 katz_deli << name
- 	 
-puts "Welcome, #{x}. You are number #{i+1} in line." if x == name	
+
+puts "Welcome, #{name}. You are number #{i+1} in line." if x == name	
 -  }	
  end	 end
