@@ -15,5 +15,4 @@ def take_a_number(katz_deli, name)
   katz_deli.push(name)
   place_in_line = katz_deli.index(name)
   puts "Welcome, #{katz_deli(name)}. You are number #{index + 1} in line.")}
-welcome_array
 end
